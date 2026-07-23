@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: RankProgress
+## Notes: Adds PvP rank progress percentage to the Rank Position tooltip.
+## Author: McPewPew
+## Version: 1.0
+
+RankProgress.lua
